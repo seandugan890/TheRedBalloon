@@ -1,0 +1,1 @@
+CreateTextBubble(self,0,-40,"The Dwarf kept to himself, away from the dangers that also lurked in the dark",c_white,200,fa_center);

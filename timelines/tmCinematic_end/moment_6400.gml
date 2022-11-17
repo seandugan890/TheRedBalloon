@@ -1,0 +1,1 @@
+CreateTextBubble(oCamera,0,-40,"Thank you for playing",c_white,500,fa_center);

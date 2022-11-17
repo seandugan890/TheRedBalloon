@@ -1,0 +1,26 @@
+{
+  "momentList": [
+    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":30,"evnt":{"isDnD":false,"eventNum":30,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":120,"evnt":{"isDnD":false,"eventNum":120,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":420,"evnt":{"isDnD":false,"eventNum":420,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":720,"evnt":{"isDnD":false,"eventNum":720,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1020,"evnt":{"isDnD":false,"eventNum":1020,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1320,"evnt":{"isDnD":false,"eventNum":1320,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1620,"evnt":{"isDnD":false,"eventNum":1620,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1920,"evnt":{"isDnD":false,"eventNum":1920,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":2200,"evnt":{"isDnD":false,"eventNum":2200,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":2420,"evnt":{"isDnD":false,"eventNum":2420,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":2720,"evnt":{"isDnD":false,"eventNum":2720,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":2900,"evnt":{"isDnD":false,"eventNum":2900,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":3000,"evnt":{"isDnD":false,"eventNum":3000,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+  ],
+  "parent": {
+    "name": "Timelines",
+    "path": "folders/Timelines.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "tmCinematic_intro",
+  "tags": [],
+  "resourceType": "GMTimeline",
+}

@@ -1,0 +1,2 @@
+oCamera.owner = oCamera;
+

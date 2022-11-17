@@ -1,0 +1,1 @@
+CreateTextBubble(self,0,-40,"Deep in the dark, beneath a mountain",c_white,200,fa_center);

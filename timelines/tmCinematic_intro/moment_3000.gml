@@ -1,0 +1,1 @@
+CreateTextBubble(oPlayer,0,-20,"([A]/[D] to move)",c_white,200,fa_center);
