@@ -1,0 +1,1 @@
+patrolDirection = -1;
